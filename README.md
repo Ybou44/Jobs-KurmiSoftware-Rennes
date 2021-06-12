@@ -23,15 +23,17 @@ Quelques chiffres :
 Processus de recrutement : Vous faites un test technique simple (pour les dev), rencontrez le responsable du service, RDV RH, vous rencontrez le CEO (qui accorde beaucoup d'importance au fait de connaitre tout le monde et BOOM ! Vous recevez une offre ;)
 
 
-## Pour postuler
 
-ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
-
-
-Des ressources intéressantes à consulter sur la société : 
+## Des ressources intéressantes à consulter sur la société : 
 
 Interview de Thibaut Flelgères - https://www.bfmtv.com/economie/replay-emissions/good-morning-business/thibaut-felgeres-kurmi-software-kurmi-software-edite-des-solutions-de-gestion-des-communications-unifiees-05-10_VN-202010050041.html
 
 La chaine Youtube de la société : https://www.youtube.com/user/KurmiSoftware
+
+
+## Pour postuler
+
+ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/
+
 
 

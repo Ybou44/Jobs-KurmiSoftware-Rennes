@@ -7,6 +7,7 @@ Nous sommes un éditeur de logiciel. Notre solution simplifie la gestion des out
 Les admin système de nos clients nous adorent !
 
 Quelques chiffres :
+-------------------
 •	Création en 2010, 
 •	70 collaborateurs, 
 •	70% du CA 2020 réalisé à l’étranger,
@@ -21,3 +22,8 @@ Quelques chiffres :
 -	Un environnement « Scale Up » : Un produit qui continue à évoluer techniquement et fonctionnellement, une forte croissance, des perspectives d’évolutions 
 
 Processus de recrutement : Vous faites un test technique simple (pour les dev), rencontrez le responsable du service, RDV RH, vous rencontrez le CEO (qui accorde beaucoup d'importance au fait de connaitre tout le monde et BOOM ! Vous recevez une offre ;)
+
+
+## Pour postuler
+
+ou me contacter : yann.boursier@solidskills.fr / 06 51 47 26 58 / https://www.linkedin.com/in/yann-boursier/

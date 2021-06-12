@@ -8,11 +8,11 @@ Les admin système de nos clients nous adorent !
 
 Quelques chiffres :
 
-•	Création en 2010, 
-•	70 collaborateurs, 
-•	70% du CA 2020 réalisé à l’étranger,
-•	Levée de fonds de 10M€ en 2020.
-•	+ de 3 millions d’utilisateurs au sein de Grands Comptes
+-	Création en 2010, 
+-	70 collaborateurs, 
+-	70% du CA 2020 réalisé à l’étranger,
+-	Levée de fonds de 10M€ en 2020.
+-	+ de 3 millions d’utilisateurs au sein de Grands Comptes
 
 
 ## Les bons côtés de Kurmi

@@ -7,6 +7,7 @@ Nous sommes un éditeur de logiciel. Notre solution simplifie la gestion des out
 Les admin système de nos clients nous adorent !
 
 Quelques chiffres :
+
 •	Création en 2010, 
 •	70 collaborateurs, 
 •	70% du CA 2020 réalisé à l’étranger,
